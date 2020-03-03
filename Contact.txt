@@ -1,0 +1,1567 @@
+
+            name:Jaqueline Rubi Juarez Ramirez
+
+            ocupation:Jefe de operaciones B2C en Maestros.pe
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFarBC1dEXmqg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ao8whTfGXhiiq6UfoUIb41B3TD4VuGqdX2R5Xqa56UE
+            
+            name:Jhan Christian Calderon Mariano
+
+            ocupation:Bootcamper en Asociación Hack Space Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF4MjvqQTrwdw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=AtMBQ6yS6eOKZNm5ajrQles84krWp6esior1X6LwznI
+            
+            name:Jean Carlo Gonzalo Arapa
+
+            ocupation:Bootcamper en Asociación Hack Space Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFfOrGY50xC3Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=-ZOOI0lB5YQXQPsVSjep8h8sAoU27f7Ir0L7VCL2BW8
+            
+            name:𝗣𝘂𝗹𝗴𝗮𝗿𝗦𝗮𝗻𝘁𝗶𝗮𝗴𝗼
+
+            ocupation:Chief Information Security Officer en Equivida
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQF9EBIfGmFE3w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=gG6zejYjlniznz0pDYhGlqOlevGvyv9GD0V0WRC-of4
+            
+            name:Oswaldo Junior Paitan Vega
+
+            ocupation:🔝 Ejecutivo de Cuentas TI 🔝 Datto Latam 🔜 Resguardamos tu información y brindamos continuidad de negocio 🖥🔛💻💵💵
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQG3DAist7Dj2Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=RhPiQW20yUDr42XuRUg6aNTDd_mifeTAnoiAn6jF9T8
+            
+            name:Iban Amoros Mendoza
+
+            ocupation:Cybersecurity Specialist
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHprtLuijovDA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=j4uDHKEXoEK_fCk9w-E7fIn4Sd6J3gzgbbymkj7bFBM
+            
+            name:Elkin Ortiz Morales
+
+            ocupation:Bachiller en Ciencias Informática y Sistemas
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQG4tfYxQTZTvg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=NJbk-2HolKvBccExzjyp36Oe4tGjcNKJ9gU7ScpAqOg
+            
+            name:Albina Khan
+
+            ocupation:Product Specialist at Freelancer
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQFZjYCHDKlNug/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=FMlKa029TWTn5dZOmX2HAe6FAY_rJx4yXEfHYSfbrWU
+            
+            name:Yris Calderón
+
+            ocupation:Socio - Directora de Operaciones en YC Jobs Consulting - Headhunter
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQELnioDKvk08g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CgeQLKRPf7bWqjVRyeUD5Y6ehiQJ8kHHiS-gBrQNnOM
+            
+            name:Noelia Multari
+
+            ocupation:BÚSQUEDA LABORAL ACTIVA Estudiante de Ingeniería en Informática
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFr4OWXZtbN9Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Egl7PvzKEZ7moXxbX-ccXLNZH9h3jls6Vo6krbhjCGU
+            
+            name:Ana Benítez Domínguez
+
+            ocupation:Jefe de Selección en AHP HEADHUNTING - Grupo Amrop
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEfpglW0WXDfQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=O8KbrUBqVwRoKdA0s-SqwEpro8dQ8paA7H1hq48stGQ
+            
+            name:David Reyes Letelier
+
+            ocupation:Gerente Investigación en altas tecnologias
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Michel Alejandro Faúndez Ortiz
+
+            ocupation:--
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGYPxjqnRu9lg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Kx3UXCPyOonh6JwfOcuaZdks6l0HO4LZwiBePyX_2yk
+            
+            name:Jackes Matos
+
+            ocupation:Arquitecto de seguridad TI en Banco de Crédito BCP
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Andrea Virginia Garzón Meneses
+
+            ocupation:ISO/IEC 27032 | IT ASSISTANT | TELECOMMUNICATIONS ENGINEER
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEmwP3iSQC43Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=6OS7aGtWGv8yPPu6jLO1gXABDt9XlLXYr1kP0EwPApc
+            
+            name:Marta Barrio Marcos
+
+            ocupation:Security Researcher en Deloitte España
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEtEsKGnbcvZw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=rhYwNPxdQl2Oa0jHbcJ_cNRjYc_ggIt1fhVTmEAvU0k
+            
+            name:Xero Security
+
+            ocupation:Offensive security solutions for penetration testers, bug bounty researchers and enterprise security teams.
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEIe5eqq1s6GA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=KybN-6tXpx3PaxLTbA1tB2PddY7KZMt6CbCsUjqNG-k
+            
+            name:Roy H. Quintana
+
+            ocupation:Cyber Security Analyst en INZAFE S.A.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFIYSMZcRgJuQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=fpLblcZk2Ez7zJnCFwdBLGTeUU6KA1IJAheFv0kVrlc
+            
+            name:Brando Silva Ortiz
+
+            ocupation:CEO | Operations Manager | ITIL® | IT Solutions Integrator | IT Broker | Entrepreneur | Security | Cloud Solutions | BPM
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH8w7_zsDVNdw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=33LtsytfysRgPzE-DD6GkDmXlNBMiIhDU46Mp_O_teQ
+            
+            name:Sofía Lozano
+
+            ocupation:Consultor de Risk Advisory en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFqa_xKbvMQAg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=S5bZzgaG-DUXs6U4kyhltapHM85ep4s3nFtqRnNLqq8
+            
+            name:Andrew Sanaev
+
+            ocupation:Helping organizations avoid ransomware infections!
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFOqOKTCwPxSA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=qdk6LljiCYUBoLFEHmiRtUsJPXvLiwy58rAw0Zk-Fog
+            
+            name:César Deza Franco
+
+            ocupation:Cyber Security Consultant l Ethical Hacker en Deloitte l C|EH, C)PTE, C)SWAE, Cobit
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHU5num1oLSwg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=L85nN1y6YDq9iI0jbx5-5oOzBpf_-xufsRJ84nf4xJw
+            
+            name:Raphael Hinostroza
+
+            ocupation:Consultor en Deloitte
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFtRCMaY83Zbw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=pmFcABd7CZ1KrS-uyw7vL_u8qHlOP383k6NWXjx9I3s
+            
+            name:Maribel Tone
+
+            ocupation:Asistente de reclutamiento en Krowdy
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF_hc4SNdjWHQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iez48VzghoSX8Qcjl06QhI8kHenGO4eUaHVePhcPSnU
+            
+            name:Arnold Pool Caballa Castro
+
+            ocupation:Cyber Specialist Analyst en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFfTVsoW-hf_A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=GM98FrcrynCPdXC0lNU6O5YEZu6xmpL9jQqgaDAf6-s
+            
+            name:Farhaan Sarang
+
+            ocupation:Training Consultant at EC-Council
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQEZsDacttYmMw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1FPPclLtfVO466vJP8w10Rc-0VvlcNxNi_jnFPryr3c
+            
+            name:Avelino Navarro Durand
+
+            ocupation:Cyber Security Consultant en Deep Security
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHAj91yqmamig/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1AnqvKlN8nWyFdnNZZ39E2rfW89BVtyizYlieKTDtUU
+            
+            name:Daniel Antonio Chacaltana Nuñez
+
+            ocupation:Analista TI para Química Suiza SAC
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHi2W4WC0YVSw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=H7EyKRzf1EtHBNaCUF_HQaSjfsF8r5WuajPECgcWaKw
+            
+            name:Mauricio León Castañeda
+
+            ocupation:Network Telco Operations Specialist Engineer ITIL / SCRUM / PMP / ISO / CCNA
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQGFVTsp7xbX4g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=bufBDtc-bK4gVqUe5XhkWxNY54llHsJOmnESQzX6UQA
+            
+            name:David Alejandro Flores
+
+            ocupation:Coordinador del departamento de proyectos y evaluaciones de Michigan Corporation
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFcVQaG9UgOWA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CAWHqw51834AlsO1lRth2kqW67vBYQgDFGvHBiEDnoI
+            
+            name:Alexander Bladimir Pampa Urieta
+
+            ocupation:Gestor analista de la información y seguridad, Profesional en Ciberseguridad y Ciberdefensa
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHJmESDxycqVQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Z-4yj2h5zPyiC_MdKsRMo7LbAWaAfURnQbM5o0v-2FQ
+            
+            name:Luis Orozco
+
+            ocupation:Founder, Chairman & CEO en Argos Security
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQELOTI7XasqPQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Jng9T7pI5Jy_ZD6l-RTUqL0zZ1Sqs-TqIlq2MO_vVlw
+            
+            name:Rafael Huamán Medina
+
+            ocupation:Ciberseguridad Ofensiva (Red Team) - Proyecto Purple Team en Corporación del Sector Industrial
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEOaESJgcxv0w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iBhInElTb29VFcFm0oNo3-FpOkN8da_pjHBox8wcYkg
+            
+            name:Lorenzo Aracena
+
+            ocupation:Advising cybersecurity conscious companies to better understand, secure and protect their assets | Finance - Retail - Health | +15 years experience | +24K connections
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHQnQHrVTeeSA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=uJyVEe_K6ynS2No_ts42bVuBQmNRxE_pmOWu7kpfSvA
+            
+            name:Jean Carlos Malasquez Chuñe
+
+            ocupation:Analista de Seguridad de Información en Banco de Crédito BCP
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFS5hud0RNHcw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=rhsWBWtAP3jYqS8LQBZ_R4XFczW3dAcU8tc9we9FtDk
+            
+            name:Christopher Diaz Riveros
+
+            ocupation:Sr Security Operations Analyst - Consultor de seguridad - Respuesta de incidentes
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGixWntdQHvtg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=UxlT4IWO7ImxLv4_JvhF23hpZrq5YzM8eMkuK4lKv1c
+            
+            name:Security BSides Latam
+
+            ocupation:Security BSides Latam
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHeVr3avUiLdw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Jm0J1lM0TsrAiRf7lVEUn7kXhoTpAcU9MXuFbbUCPok
+            
+            name:Roy Yosef
+
+            ocupation:Founding team at AnKobot
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGHWn1QSdxUOQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=4Q5dN0leaHtYht6CZNP4KZbG6sOGP1bTMs6ZkoSBI_0
+            
+            name:Luis Alberto Huaynaccero Bailon
+
+            ocupation:✔ IT Recruiter en Background IT
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFQIEreVK1iXg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=_UpRRbSLQZdacosaZJ28Z0mm_PwtNlXvA_NdaGCEL5I
+            
+            name:Heydy Carrasco Huaccha
+
+            ocupation:Egresada de Computación Científica / Frontend
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEVigsrEVOAhA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iXQypaqurt6nBYYJm-pKmuU4RniAvgDqRH0sTGhsEsk
+            
+            name:Felipe Barrios
+
+            ocupation:Founder @ Backtrack Academy
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQESsO6TpcW1ag/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=5UaHWjM432clUQptgAf2GttovtCISYSqPNW-pO3v99E
+            
+            name:Ankita Saxena
+
+            ocupation:Senior IT counselor at Freelancer
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHgKCIVEU76Gg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=j4cn8Bk452SS_fD5K1STvQS2zYe4y6ftDuO_cbwQ_YQ
+            
+            name:helen Ybarra Matos
+
+            ocupation:Estudiante en TECSUP
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Cristel Flores de la Cruz
+
+            ocupation:Auxiliar administrativo en Fysisa
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Eusebio Alderete José Luis
+
+            ocupation:Director de Proyectos y Ventas en Albatross
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQG4a6yG5WBosg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=yeKvIS8GriC8uWpEWzWJVSFEllluNN2wJPA5tDSzIRo
+            
+            name:Pradheepkumar Singaravelu
+
+            ocupation:Principal Researcher | Standardization Expert | 5G | NFV | Cyber Security | Cryptography |
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGKdoH8A8KcSQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=3tQigAEJ89Ndtr_m39s6wBLi14ZGkuo-vso4PsGBgXo
+            
+            name:Víctor Hugo Marcelo Sánchez
+
+            ocupation:MBA, Jefe de Infraestructura TI y Telecomunicaciones, ITIL, SFC, CCNPx2, CCNAx3
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFUwrfE0-RDrg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=oM-HJHVYttKRy-XwbDy2V3sDEFvXvezQ0msIF6yZRhI
+            
+            name:Jorge Zeballos
+
+            ocupation:Gerente General de ESET Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEaAskxBM1IJA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=9bc2Hqcg7rL3HtjlJduZEybLXzyk7hzy5cWgrsCXf2c
+            
+            name:Claudio Galleguillos Escobar CyberSecurity BCP DRP RISK
+
+            ocupation:Experto en DRP, BCP, Ciberseguridad, Riesgos, Seguridad de la Información, gestión de proyectos, entre otros.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGOCwW0pt5cYQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=vBug94zUL90cJg0KiRl093-0yHKt7-UcOsNLuX60pGI
+            
+            name:Daniel Alor
+
+            ocupation:Consultor Seguridad de Información y Ciberseguridad LA ISO27001 | SLM ISO27005 | SLM ISO27032 | COBIT2019 (F) | ITILv3
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGFKVfvjK9NuA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=uyeJLOFtl9HUoigDqEHr0pJgFavT_PETTRaQ0_rp74U
+            
+            name:Carlos Jorge Tasayco Orellana
+
+            ocupation:Operador de Apilador y Montacargas en QROMA
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHkiehzt3Yu3w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=fQry3sbq5hv56DE01j5nQfxQ6_syvHKNdhMJ-cUeKCM
+            
+            name:Yuly Yep
+
+            ocupation:Senior Associate - Recruiting en EY
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHUY4BkHFFIjQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iPrFWf342tx1ZvnFPGv9DFWkBbSR0dXqJDQSSDT03w4
+            
+            name:Estefany Gomez Huaylla
+
+            ocupation:Docente STEM en Casuarinas International College
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQG8z6-OuBtLbQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=5vUXdgqmcdYpW2380Mj_l9ybKeK6MfGbZHmceeV5z3M
+            
+            name:Luis Quispe
+
+            ocupation:Helping clients architect their Digital Transformation
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFf0tBdn4Reeg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Og1ZiruznOrSRYsv5I4Xiy61SWHCYOH9JA9Snmbxd8A
+            
+            name:CARLOS LOPEZ MANCHEGO
+
+            ocupation:LICENCIADO EN ARQUEOLOGIA
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHobeww_b3WHQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iwdlvvlhQYmRHLxxB8mcx-a29FPMkknddYK7oti5Tyk
+            
+            name:Hernan Cortez
+
+            ocupation:Titulado TECSUP
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Christian Ponce
+
+            ocupation:Consultor Risk Advisory en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEhy3kzARAaLg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Ggm8TINmHavYNGj674ygVHdrv6cHU_qhr8t8qm55jZg
+            
+            name:Janeth Pereyra Alayo
+
+            ocupation:Licenciada en administración y post grado en Project Manager. Emprendedora
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFBBmnP3I7RVA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=b234tF3xdmKD8p2iQCXnm5tSrfiyFxJ8rCbaIlOSnaM
+            
+            name:rayerick peña castillo
+
+            ocupation:tecnico en colegio
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH07Hy4H-PnNg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=s-spPWhK6PvbjgK2L6uvT97kyKWaT8qDwzNAGvOFLS8
+            
+            name:Percy Gonzales
+
+            ocupation:Representante comercial Perú en BGH Tech Partner
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGY1O7SWfALlg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=SL1r_XY3PJXtourV4Y6Ac1aOYUileGsYFdNDpXwsG48
+            
+            name:Richard Arias Genao
+
+            ocupation:CSXF | MCFE | DFIR Analyst
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHOmQ6YLMTq2g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=w3n6V8x8fF96D9BsOz1-rHmn2GbwPkRlEk5j39DdufA
+            
+            name:Roosvelth Dominguez Gamarra
+
+            ocupation:Analista de Sistemas en Cyber Security Forum Initiative
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF8D_ShMDDv-Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Avz3TeF42sXEI906tPdMbkS_0GOpdkFhAE7CtiGgelE
+            
+            name:Elvis Rivera
+
+            ocupation:CISSP, Business manager of networking
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQH2ZEiGFYICTQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=jUrDNa7ETL_SIOunDhyXK4gHozQqMt16bmG-RfWioa8
+            
+            name:Marco Maysundo
+
+            ocupation:Ingeniero de implementaciones en SECURE SOFT CORPORATION
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHr00jh7V9Eag/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=TbC_JQEvbIOiSXpoivVXDZYeXjwiSICjVEeHiyYyG3w
+            
+            name:Victor Fuentes Ramos
+
+            ocupation:Analista de Seguridad de la Información en Interbank
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQG581DlT0C_4w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=zmT0_jOCIYCH9LRJy8xpczV7ekyw0a3lJBFpA6DIAYM
+            
+            name:Vamsidhar J
+
+            ocupation:Founder || Information Security Analyst at Securium Fox Technologies Pvt Ltd
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHVOMifOFXrTw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=9f9xqT_35iOlICxrRxxcTZJq9IbuBFajdkW8_8gW29E
+            
+            name:Carlos Chambi
+
+            ocupation:Globant
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHcFmMmPpXaog/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1VTqi6_sFpJtc3H9C_0nXIWeMILXB5rQD4ae1dWNIEI
+            
+            name:Erick Olórtegui
+
+            ocupation:Cyber Security Enthusiast | Malware Analyst
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHlMgpJRBMkYQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=3ZzTjfDLtTqDbl1Eut1fOmEZI1IhjuZyKqv8KYotXDw
+            
+            name:Ronald Urteaga
+
+            ocupation:Ingeniero Informático CIP N° 227191
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFCnlpuOeN4Ow/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=aqkKThi3nZ-vT1LQAFjjQvyCHXSNWLiXvb0npCcnvXg
+            
+            name:Jordan Diaz
+
+            ocupation:Asistente de TI en ManpowerGroup
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQF1EZilajKyYg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=jManniZoKe1-vEIMs_h4CV-yi0Tx7lnlYB-8z1l_IhY
+            
+            name:Carlos Aguilar
+
+            ocupation:Head Of Cyber Security en Toennjes Group Latin America & The Caribbean
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGAqJEF5y2RHg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ucHdFVdpS_pFDkUoUL1KH9BP9moWuufjI9n1nAanThM
+            
+            name:Manuel Gutiérrez
+
+            ocupation:Analista de Atracción del Talento Humano en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGGEB2g8ppgQg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=SDpvYWEDr1r7GerCi-9aveX7HX0go4Rpr-6N0GZHewU
+            
+            name:Go Green Perú
+
+            ocupation:Productos y Servicios Eco Amigables
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE1OdLjW4KOHQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=2v0d-TUs3-sUM-CcidemKEYRtyCq_5WtRNJ8YXujVYM
+            
+            name:Mauricio Marin
+
+            ocupation:Transformación Digital | Gerente Preventa y Consultor en TI ► Clarity Consulting
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEcoZP1Axd0iQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=AEHXrwCvdKebw5Svib3hIBsoGK9umx-eHKBeoeaNoWA
+            
+            name:Wilberth A. Rosales Huerta
+
+            ocupation:asistente sio en CONCAR |Grupo Graña y Montero
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE8mvr1pW6mlw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=unH0IhZPVy1f9IHat7qbx7ieRlBWfoczIvDDUPR4bow
+            
+            name:Alex Martin Ternero Herrera
+
+            ocupation:Gerente General en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHt3uWg02fziw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=GMy4RndwP3-RB5j9bkXq5aUSn63bXrjDT8hHw09e0Zg
+            
+            name:Miluska Castillo Romero
+
+            ocupation:Coordinadora de Marketing en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQESefe7WaeewQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=hT7WD8yxphMpHRvLoHIumReWbqAnMTarnl3D0loNVpE
+            
+            name:Kevin Steve Alcántara Salvatierra
+
+            ocupation:HR Business Partner| Headhunter| Desarrollo Organizacional| Cultura| Docente
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGoEnu0-vIM_Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=AP-w8I1t5mfFICLgmS6UiWjGeUGBfqGyWgD_HbaRJ7I
+            
+            name:Julio Yojham Mendoza Alejo
+
+            ocupation:Telemática - Estudiante
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEfRJKtXN8HLA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=p3bgo--pfjUxAgp_D9q_b3eFfpZ3XIYmPnXNFZ8R5Cc
+            
+            name:Erick Ysidro Tineo
+
+            ocupation:Veritas Specialist || Microsoft || IBM || Cisco
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFeeXjRJdSWBA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ELnZdPbpBvbp4CsMAykAqOJvV4YBvFeTKsuqb0fN9dM
+            
+            name:Jose Moruno Cadima
+
+            ocupation:Security Consultant
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Pamela Verano Legarda
+
+            ocupation:Analista Comercial de Educación Continua en Pontificia Universidad Católica del Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFJtEpZYOsdpA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=I-U9pS5eqqCnRPbxO13sYIlb3X8n5hsbslCMwXH0Ay0
+            
+            name:Steven Quispe Romero
+
+            ocupation:Profesional de la carrera Mecatrónica Industrial
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHK6SxP8sD5Lg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DWTL2_U3HWCnJka0rwlTLtSfjqCCZ488kSH8gN8t2J0
+            
+            name:Alisson Lara
+
+            ocupation:Jefe de Seguridad de la Información en Clínica Internacional
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGCi5GRlILTVA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=_niKkhZxFduu-WPhXcZXR3Uk0NeDEYElDMw5l0tJLww
+            
+            name:Carlos Morales Zapata
+
+            ocupation:Consultor en Ciberseguridad | Oficial de Seguridad de la información
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQF1kLRHj_etng/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=qZ7XPXYUFlAX9gvXCeBHRs5eymYSYbFKF4fcAqRhbio
+            
+            name:Ronald Sáenz Huerta
+
+            ocupation:Msc. Seguridad Informática, C|EH, Radware Security Specialist RCSS, RCAS-AL, RCAScS, Docencia
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFv4ez_3ORLEQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=U-XO9-8WN5RAKO9INjiY8YFT7vJOx1nneqVEKwN2HPY
+            
+            name:Darlyn Rios Piñan
+
+            ocupation:Analista programador en everis Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFfX3BndSClHQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Z35EqxzeAlwtFCsKey3iHe19pZH0H6NmWBSTgx7HCC8
+            
+            name:Victor Cheng
+
+            ocupation:Signaling Commissioning Engineer at Hitachi Rail STS
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFJAUigkK1OIg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=8poDhXtbhlJHTsj60fZ3geQqdalxrLNKpLHibtrCAXE
+            
+            name:HUMBERTO E. OSCO C.
+
+            ocupation:Risk Advisory & Seguridad de la Informacion - Deloitte Peru
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFzkN3mryEyaQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=MyhOwARRH03j_ncUG1khTCax2Yu5tzhGr7KEP2o90I8
+            
+            name:Brayian Edgardo Meza Valencia
+
+            ocupation:Cyber Threat Intelligence Analyst at Deloitte EMEA Cybersphere Center
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFRGFIAKCqvkA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=pD5BXwsoj29nO7KzwVvdhuyBjZrS971UfYDKgcNWE_M
+            
+            name:Ciro Alfonso Arenas Arredondo MBA-CISA-CRISC-CISM-CSX Fundamentals
+
+            ocupation:Gerente Contraloria Corporativa en Grupo Aval
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHy3xq3znx0yg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=vDHBGIY1IZvN8LwGz1Bm15-wuDVbdquonVYipAfgkYE
+            
+            name:Renzo Delgado Paz
+
+            ocupation:Risk Advisory Senior at Deloitte
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHWDpJJqVlsEg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=O4b14wdPOajtH2szHU_rrijFLQ2x3IvVV3fF3ctsnWE
+            
+            name:Fabio Cerullo
+
+            ocupation:Especialista en Seguridad de la Informacion
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHREpODkiI_tQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Vpr-0Nb2MXPV1540lAQjpcRZOzKkWtNCWeOnKrFwyMc
+            
+            name:Everth Juvenal Gallegos Puma
+
+            ocupation:Latam Security Leader Inzafe SAC
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEY9y1_UaTd9A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=cfPgREvsXZ9s4nJlbu6fBuEW7ozCDIQQMhwK5SRrrT4
+            
+            name:Karina Galarza Rios
+
+            ocupation:Senior de Talento en Deloitte & Touche
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHxCveQ9V2xaw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=of5Qo5_FzW5RW5eC2vxWrpZ7W31l7oqp8CmiMA3xnd4
+            
+            name:Aldo Villaseca Hernández
+
+            ocupation:C|CISO/ISO27032SLCM/ISO27001LA/ISO 27001SLI/LEAD CYBERSECURITY (LCSPC)/ISO22301A/ISO20000A/ CPTE/ITIL EXPERT/AGILE COACH
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH3jmdGH2vOUw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CpvGj74CtmQPptaFU7V7rZbsjPXWTkc_TJYuD7ShSIw
+            
+            name:Cristina Mazzetti Serrano
+
+            ocupation:Learning And Development Assistant at Deloitte
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGpiT6Of9o9RQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=5MXmFB5pRcsuNj3bmp1bR_nCf3j5FiWWwzasdVQkiEk
+            
+            name:Alejandro Alanya Harltey
+
+            ocupation:Ingeniero de tecnología en Fiberlux
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Alexander Botero
+
+            ocupation:Security Threat Hunter | Red teamer | Bug bounty hunter | OSCP | OSWP
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHEkQx_9yTceg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=vdhvY7EQjA95ycBB24STXam-UX5H_0bWIi06hU0La4E
+            
+            name:DORI MARLENY SOLES FRETELL
+
+            ocupation:INGENIERO DE SISTEMAS E INFORMATICO en UNIVERSIDAD PRIVADA ALAS PERUANAS
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQETF_cpUw26KA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=AMdR9je6EMMOm6HULh3hc04-1cgiHJCtyglszz8Iric
+            
+            name:Arán Lora
+
+            ocupation:Senior IT Security Analyst en CyberSOC Deloitte España
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH3a-HjTjWuBw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=t3VPan8WGPevFdJC4mAAEnfVWy760lMrsyNyhVIexto
+            
+            name:Andrea Vaccari Villafuerte
+
+            ocupation:Analista de Talento | Clima y Cultura | Gestión Humana | Experiencia del colaborador | Eventos internos
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFqQ2pbzfsXsA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=aFGXFLFPzH5m7K8IQ9k7kVlvVb4c37CRZZ_kJQbRC50
+            
+            name:Kelly J. Villa C.
+
+            ocupation:Full Stack Engineer at Holberton School
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGjuEsDwKVEQw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DFOAurxrzg6OepWJmMX__ujsnjsdRbnf3htEUD23Q-8
+            
+            name:Omar Jacobo Muñoz Veliz
+
+            ocupation:Desarollador de aplicaciones moviles en Plus Technologies & Innovations
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGHSn1a_BU5Rg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ptT8Rx0NUtAu6lKiWECB1bNIcluU6Thb3LDfz0-bRkE
+            
+            name:sandy Portella
+
+            ocupation:Analista de Reclutamiento y Selección en TI y Responsable de Personas
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFTxtzQWAmZ-A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=tyLyC3CT8isYy3qVrIybPu-JYSJEOroqgxmf8mItpsI
+            
+            name:Milton Huancare Medina
+
+            ocupation:Programador de Aplicaciones WEB-3 - OGTI en Ministerio de Economía y Finanzas del Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFDmOJOF8kGmQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=uMYLTwpoFSDB-6EWGAKhPmxftciNrbFVmz69CNeFSh4
+            
+            name:Salomon Ccance
+
+            ocupation:MVP Business Intelligence Power BI
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHn4lk_wqZ9tg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=GSuUBxqcJrVhSpMmER-hBKIF95qex19iqbBDC4ycPe8
+            
+            name:Edward Sanchez Rojas
+
+            ocupation:Jefe de gestión del talento y Desarrollo en Industrias San Miguel
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQErL2dAcNW-kQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=oXgV-wIbg1VhSudnZLin7bu6iVM0XNRtP-QzmUXozwE
+            
+            name:Alexia Lizette Fuller Marquez
+
+            ocupation:Key Account Manager - Division Tecnologica en DARF PROJECT ADVISORS
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFrsVExsDk9VQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=E0hhmopUp-bP0HxXnjoiHKzxhOd3ULbpgYzSUEjRjJU
+            
+            name:Francesco Cerino
+
+            ocupation:Management Solutions en CIAL Dun & Bradstreet
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFMleXDPt06xQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=BtEkAxZ4JOqpOd8A8f6K0TLThEiCjh1bMfp4D_lY9wQ
+            
+            name:Olga Ximena Guerrero Ruiz
+
+            ocupation:Consultora de Enterprise Applications SAP en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHOL8NC7IRSNw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CpwgPhBZ4UGtDxDDiM0xlihYDPNJXeYUo-VKk4OmoPU
+            
+            name:Anderson Jesus Aldonate Arias
+
+            ocupation:Cloud Platform Specialist at IBM en IBM
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHhj0djtOjhfg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=8WWcA-iEQFM2dbhfLEj1xwXL7eD94GHMn3kxQgbG1Tc
+            
+            name:Junior Cardenas Yallico
+
+            ocupation:Profesional en Redes y Comunicaciones de Datos
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFLuSdIkpg_0Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=cRjth9NHXYr3j79liciQ0tXzRfpgcC8g2nqXSdACEIs
+            
+            name:Percy Miguel Ruiz Seminario
+
+            ocupation:IT Support Engineer
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGLEXSenm7idw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=4pD7NeD4woHMV9txlzzrc8IONhErGWliehQsxMDdZu8
+            
+            name:Stefano Jordan Betancourt
+
+            ocupation:Practicante de Risk Advisory
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFwnIyW3YgGEw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=98FtuYoDD4wt-QrMs2_-lXCiec-DLOy-ZB35utx7FFI
+            
+            name:Nico Waisman
+
+            ocupation:Head of the GitHub Security Lab
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQGxliXrUk1wdg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=WnPaG5Np4LiRPaKMv4ocXKIbCHoxiXQ4o8xmNzVD8gA
+            
+            name:MULTITRON SAC
+
+            ocupation:Empresa Desarrolladora y Proveedores de Tecnologías Informáticas MULTITRON
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQEtJHnzNUCndw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=O61g8J5xm14ylFW541dZr1sh9JWpFNych7Zz0nYbATA
+            
+            name:Bruno Guzmán Fonseca
+
+            ocupation:Analista de Seguridad de TI || Pentester || eJPT
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF_xRTCtMpoeQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Ul16zo-k-XkQ_NSqmb9WrSnVr8RtRA-h1WpxFY6lTgA
+            
+            name:Carlos Rosillo
+
+            ocupation:Consultor de TI
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGcuyGMz131pQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Uu0TStVy4ptes15shi-XGAah_zZgYuNrE2qincE8tJY
+            
+            name:Frank Ortiz Pablo
+
+            ocupation:--
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFRA8Vnr0kALw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=FBtaJyLRyIOvFQmoTOQKbnVzcrIqG1cm5QQs3cqbSOk
+            
+            name:Karina Céspedes Vargas
+
+            ocupation:Risk Advisory Senior Professional at Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGIris9MwXM0A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=yVuuCqL0yl9mGmeGSd1V45UhYjcaeI4fvLoB-urURqM
+            
+            name:Luis Bueno Torres
+
+            ocupation:Cybersecurity | CCNA R&S | C)SWAE | Oracle Certified Associate, Java SE 8 Programmer
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGYCB7ZUE7dVQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=WTLJP8O1Q6G9YnormkSv2eSAivuLxBIt9y5XXivlAJU
+            
+            name:oliver ramirez riofrio
+
+            ocupation:ventas
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQGKy8BV47_0dQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1BqfLAxTz-mByb79ppzKBZ5XcRXhRjT3fsb_4h7Z8vA
+            
+            name:John Vargas Pérez
+
+            ocupation:Security Analyst and Researcher
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHu918cnscnmg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=7uCf8OjcxuxeJIRZGvDBmslKWekewQYMTOcca-pkHeo
+            
+            name:Gladys Trujillo
+
+            ocupation:Jefe del Dpto. Cobranzas
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHZCZJjRiQuTA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=rNVoDDpIfiqiMFkODcZmVf2Lpryq7yvV8SigPyO5KAo
+            
+            name:Paulo Cisneros
+
+            ocupation:Networking Administrator | NSE4 | ITILv3 | Cybersecurity Trainee
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQESQ00Yv-Ksrg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=JcPUtIF0IQq0ckryjpsoVGuQOCUhc2o6BY_SEfBX2qc
+            
+            name:CESAR RODRIGUEZ CISO Chief Information Security Officer
+
+            ocupation:Seguridad Información, Ciberseguridad y Continuidad Negocio LI27001, Privacy and Data Protection, PCN 22301
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGcosdffQw_lQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Nk1cC2mu2iAHJrtKXHRgd-KWnLX587H-9mncfei9uqY
+            
+            name:Jheen Pooll Carrasco Ruiz
+
+            ocupation:Cyber Security Consultant en Rimac Seguros y Reaseguros
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQG_FXxxSfp1Jg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=cm7uOQ17cLMN0wxhHpeg-LrpawRXA5sre2fFxqKoijc
+            
+            name:Jorge Martínez Solimano
+
+            ocupation:IT Talent Acquisition Specialist 👨🏽‍💻| IT Head Hunter 🔍| Talent Management en Indra
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEM6bnCO_73Tw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=g_knNYTZmnF_R5i1yBKTyIDH--Jr2TZ4IA0EOiP1yPQ
+            
+            name:Trajes Chávez EIRL ...Elegancia a su Medida
+
+            ocupation:Asesores en Imagen Profesional Corporativa.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE5vch9LW4nFg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=7f2b6wFMk9JtNZgWGRPrjoGZj85HOAc8JyaPeWkfc64
+            
+            name:Carlos Rengifo
+
+            ocupation:Contribuyo a la entrega de servicios de los clientes a través de productos de TI ágiles, confiables y escalables.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQG241lEKoJYew/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DJn1og4zr-ArN75uqgMwfCaGINCLCYD4BCXnKyVCBBg
+            
+            name:Ricardo Supo Picón
+
+            ocupation:Chief Technology Officer at INZAFE S.A.
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEclTr04jpfvQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=8ISaYRx2tFJf2L8BPlzD995pfAAiiENR9N8jQTOPgFc
+            
+            name:Miguel Angel Pablo Arevalo
+
+            ocupation:Estudiante en Senati
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE38aXgY-te-w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=hU8LNq7OBzif615de6DItd4TGwf8PjGRsxS2g1wH5SM
+            
+            name:Luis Vargas
+
+            ocupation:Consultant Cybersecurity
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHpTmFRm3s4Nw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=fOeIcSVDvQ7dPL2xLV9ATykENyGmXkRBdt2iI0MIFE4
+            
+            name:Claudia Carbajal Basagoitia
+
+            ocupation:Analista de Recursos Humanos en Backus
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFMOAnlxzAfPw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=XtMq0EmoEKZXFj2UrmKsIiKT_tluAgw0VwYmJscZbHI
+            
+            name:Diego Godoy Alvarez
+
+            ocupation:Cybersecurity Senior Consultant | CISSP, CEH, ISO 31000, CPTE, CSWAE
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFWDnAD6scVUw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=RIvIH_rPV5MLMJftptOVVDJjtH31a_wpPgnvZDTZZi8
+            
+            name:Hilmer Luis Gonzales Cortez
+
+            ocupation:Project Manager en ArqSystem Studio
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQF7xX4N3O4XpA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=nRjC-ZPazi0M40XD6BjUpUNRYq40PUyy3TBGub5LLm8
+            
+            name:Alex Asto Davila
+
+            ocupation:Profesional de Diseño, multimedia, web, marketing digital, animación 2D, audiovisual, animación 3D.
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFoRD1SE_McEQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=bDE0nN5u7pV-VQRHrphzLiXNNOq4y4-o5IK0zmeq_M0
+            
+            name:Brayan Rodriguez
+
+            ocupation:Consultor en Ciberseguridad en Deloitte Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE3FpKL3GOIxQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=86xkzXGPKEwbRtCYDQuovh7LZDnapZdv4f71yiAU544
+            
+            name:Miguel Ventura Navarro
+
+            ocupation:TI en Wisetrack Peru
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQElgYexp9g98A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ZGamAHLtpNehAyBn_OXQts9ZYQsNOvkriQCNV2lG670
+            
+            name:Alejandro Gonzales Navarro
+
+            ocupation:OSCP | CISSP | OSWP | CPTE | CSWAE | CCNA | LPIC-1 | CCENT | ITIL v3
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGhpJIbJEWmUg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=81DYofuTrXAMpGxJo1cUgF3v-7E0hJBOH_jMMuca4VY
+            
+            name:Jorge Córdova Pelayo
+
+            ocupation:Cyber Specialist Leader at Deloitte
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHrRh5EhEGGfg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=p_w5gthAuC4gEmnLqqewzDpjC1YWZAEsegXkyQH3dlk
+            
+            name:Pamela Martinez Ruiz de Castilla
+
+            ocupation:Gerente de Educación en Open-Sec
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQE7pvzzhyoD2w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=MyRsDN_vCzwHEAi-BzK9M80tGGjE1BibOSzTCoZxdy4
+            
+            name:Adataliz Castillo
+
+            ocupation:Ciberseguridad
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQG2C-1wM9mucQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1KPPD-LB86H16zPH-EFb5I2z8XjsZmsy_Irla0JMtmA
+            
+            name:Natalya Amoretti
+
+            ocupation:Universidad de Murcia
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHjSj6mQjEFQA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=cC3PiM4DiEiHIR_w3vDnwxu77TpX_daeWVddz9fs1uA
+            
+            name:Juan Sacco
+
+            ocupation:Exploit Writer, Reverse Engineer, OSCP, OSCE, Advanced Corelan. Exploit Pack Framework Author: exploitpack.com
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHdpraKjEQJZg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=RYIA-CqZ3X6AWZmyWbqZME3m1JR-8NXjiwKIvkgzz8I
+            
+            name:Janeth Olano Palacios
+
+            ocupation:Ejecutivo Comercial con Carriers en Entel Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHQHAIlQrnYQg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=JQOQFqA9A_rK77RDfrI5JRtxoFcLMRz1BTp9kCD-IWw
+            
+            name:César Andrés Zapata Bravo
+
+            ocupation:ITIL, Consultor de Servicios
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFnWU89EWtf5w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1-3WmzyrvXI4nObgrrTP80QQDhrDnfuJZ9jj0SYDpZM
+            
+            name:Luis Santos
+
+            ocupation:Software Programmer & Analyst
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQF8VqDjiYc1mw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=g-ogsQcPEFke0WUpArk85AmqdO2WPqlOFZxaiWQDR-A
+            
+            name:Willian Parejas
+
+            ocupation:Ingeniero de redes en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHT7tTxwL-zoQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=92S1cHFRGg7PpN99Ue94RAKAlXMQtYjOEft4RES3HMA
+            
+            name:Miguel Velásquez
+
+            ocupation:Profesor de Cursos de Informática en Universidad de Lima
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGg4qabFj6oAw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=PDHbNATxSUP0M6yYa8ap6okTFrHUHFWlkOCUkzHOxWQ
+            
+            name:Giancarlos Romero Pizan
+
+            ocupation:Network operator
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFFCvhxn3CXfQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=PDKJI2Lr0TfIvUIRg6Vbzt-Ls74rzUKsjyAD9K6eQms
+            
+            name:Patricia Pantigoso
+
+            ocupation:Cybersecurity Specialist & Pentester | CEH | CPTE | ISO 27001 | COBIT 5 | ITIL
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGzP5aRHt511w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=rJ_TJa4qtcXA61C9_V9A9Eony4N8z6mlsoQcoYXl_oM
+            
+            name:CJava Peru
+
+            ocupation:CJava Peru
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFl2oWphmIf7w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DI3y9trsBxSEy7Qi_T8FZtP_WZpfk3kb1c7US1y_IGg
+            
+            name:Alfredo Merida Chau
+
+            ocupation:Analista de red Fiberlux en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGihFZniEnVKg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=iVEh603iEp9oQJA9FkTG6uXCU6Xfd6RlzhkJSjbzKWU
+            
+            name:Daniel Carranza
+
+            ocupation:CCNPx4 R&S|Sec|SP|DC, CCNAx5 R&S|Voice|Wireless|Cyber Ops|DC, VCP6-NV, VCP6.5-DCV, ACE, BCNE, MCP, AWS-ASA
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Swami DF
+
+            ocupation:...
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Fernando Conislla Murguia
+
+            ocupation:Ethical Hacker | Consultor/Entrenador en Ciberseguridad | CEH, CPTE, SEC+,SMC
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHf2kyLRoS9mA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=tPRZ5gBSsxsy8WFVnK6BKYFtPE32yMwIeD-K316Kp-c
+            
+            name:Gianfranco Mendoza Palacios
+
+            ocupation:Cybersecurity Consultant en Entelgy Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGyj6fiSvXkMA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=j2qlkRDhhCEkH0Yze6fUUma-H7WoZDl7BfvZ-PCCfF4
+            
+            name:Josué Rojas
+
+            ocupation:Exploit Writer SSr. / Reverse Engineer en Immunity Inc.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHcYABwMq1kVQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CWR6U8spO4f5HpXvqo9YtyaeFFjX4pel6gGiD353HxE
+            
+            name:Solenka Silva Rodriguez
+
+            ocupation:Asistente personal administrativo en Fiberlux SAC
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQG5_uhgSa6ZJA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=QZnDosXbfEBNtLZMRZWD1FiHtLSzO5gjlK0-hAgaWgw
+            
+            name:Nicolas Alejandro Economou
+
+            ocupation:Exploit Writer Specialist and Senior Security Researcher at Blue Frost Security GmbH
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFhtrXNuQrdvA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=8itdQrSyZQCCpOHuv6sqQKebBHmnB833_mLypfTa7hI
+            
+            name:H. Julio A. Guarniz Ramirez
+
+            ocupation:Ingeniero de Telecomunicaciones
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEWiQGmxwJ42Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=EyYkfgukXm6X0HStrNPUNVnemmax9tpVCJrWSJzEn38
+            
+            name:sandro garcia
+
+            ocupation:Gerente de cuentas Estado en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHnByptDPASVA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=UIjr50dZIeoVjI8sLCB8y1fRzgq0_YZxgUo3FYZ6mFw
+            
+            name:ADOLFO YASICK CACERES LUQUE
+
+            ocupation:Gerente de Seguridad de la Información en THINK NETWORKS PERU SAC
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQEy-gyBRbm-WQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=89vBTCVQNLd7giBmaiXa7g7UOHbplT577XUzBVpjt9A
+            
+            name:Arup Das
+
+            ocupation:Business Development Manager
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGW-q_Sd7q1Cg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=lFFjRW6ETZTg-MFkFac_byjglE7103UeJdWhoIavFec
+            
+            name:Jorge Barba Paredes
+
+            ocupation:Gerente de Desarrollo de Negocios MSP CSP Scrum Master | ITIL Foundation | Marketing
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHHvUgI3rUoVQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=VuX72SHfeGhifmK6cwO1hG7DhB4Gjd4ztUjMJxXFOoU
+            
+            name:Claudia Agreda Davila
+
+            ocupation:Gerente de Atención al Cliente
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGiD61xf4FmGA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=_kyXYte4XTHiYCqDJr9_BVi5bAPpHaoML2MRM-rEb8s
+            
+            name:Mery Maritza Yupanqui Rojas
+
+            ocupation:Auxiliar Administrativo En La Universidad TELESUP
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQH-BklxoGvwog/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Mbobug2AQwRQHCMHnBUofCfSfT_VGKkYJCMsy75y3NU
+            
+            name:Felipe Vásquez Vásquez
+
+            ocupation:Jefe de SOC en Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQG2OtizQro9pg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=qin5vejLbDAYK3TwdZgnqOQzzdWKnTsfLy4arD0CLeY
+            
+            name:Educación Prenatal a Domicilio (EPAD)
+
+            ocupation:Administrador
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFGfYfxhRcQjQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=sEwJgMs96UREF771s0MBRWpRPmfQHLcOBM_1FuOuA5Q
+            
+            name:Qi Liu (walstar)
+
+            ocupation:led solar light ufo led high bay light,led panel,led tube,led corn bulb,led street light manufacturer-Walstar-10 years
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHaXQCyuL1aSA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=4xlG6RoPGkfeNcTV6MgrE9YTqmxwciC2ashPrLlnMUM
+            
+            name:John CALLE Luque
+
+            ocupation:Jefe de TI
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Jean Carlos Avia Paucar
+
+            ocupation:Ingeniero de Soporte de Vide en AirON Group
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGbW86raRAb9g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=6HrnnLn2c30Bb_SIJvoyHQH82eaSeLqctxAe1DYdNjo
+            
+            name:Inés Secada - Managing Consultant
+
+            ocupation:Managing Consultant en Cornerstone International Group
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGi58ARDwDblA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=S79WQzmdwsfa7yGHH_xNe7mABz3DBPwMxPvAkgyXzwk
+            
+            name:Juan G. Leiva Faustino
+
+            ocupation:Ingeniero de preventa en Claro Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFN9OPkLkdI9Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=V4SruZLvuYrzYzVGFQySjUK9hIQCQndUN4x3SZxSFB0
+            
+            name:Waldir Gonzales Condor
+
+            ocupation:Desarrollador de .NET en IntelliPOS S.A.C
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF1kv5VMIuoDQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=SgtZ3PXbe32PLVyAkUlScF1MWT5yIwX6W7VJ_GUbR_4
+            
+            name:Blanca Yosselyn Espinoza Herrera
+
+            ocupation:Líder de Analista de soporte IT en COSAPI
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGggRmWnKLJ9w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DyOcPrI_jVvl23se81N6VGXt8jo2NGXZfevbNNIph3A
+            
+            name:ROCIO PACHERRES
+
+            ocupation:GERENTE DE MARKETING en INDUSTRIAS EXPORT S.A
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFS69ra6Nrgag/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Mpi68lIGQDmSCMUt3JIDSaI-MXOmI6d-Uqnvbvrfd_Q
+            
+            name:Jose Andres Malca Pascual
+
+            ocupation:Ingeniero de Seguridad y Soluciones TI
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQH9c6BcWvoFCQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=BJsYVtnfo9a29ZYNnvU3EBdlWGkbuMIiEQkTtXmV9Q4
+            
+            name:Julio Quispe Abanto
+
+            ocupation:Engineer Deployment Cloud en Softline Latinoamérica
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE-_PE5BOVemw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=a5VtO91SOnoNeKxsmERNEAGp_llcw9k8yX9bu1I9JKg
+            
+            name:JOEL VEGA
+
+            ocupation:ESTUDIANTE en ADEX
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHYl8Kv2zEQ-g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Ov-vD5ipF2tCXGDITZxuBN6x9_llFZCR-CaM0CSoFwQ
+            
+            name:Giancarlo Noriega
+
+            ocupation:Líder comercial en telecomunicaciones.
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGSBZcvcs5R1g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=zW4nM-Gmye_dR5qnTK-z2l-M74KMA_hc5WMDGt8uD8A
+            
+            name:Sara Cancio Alegre
+
+            ocupation:Entrenador personal en Fit4
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEmG1VjpYpxHQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=KdaqM6Svg9mmGvhGYkPHiqw-O_Lbr_FoBDmpiHh2NwE
+            
+            name:JULETT PACHERRES
+
+            ocupation:Supervisora de Ventas corporativas
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGN7RGVvsHh7Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=VRR72k2FkmtHqK69hhQ-p9Rrp8S-VKjbTapZNwTFB3g
+            
+            name:Junior Luis Enrique Riveros Callalle
+
+            ocupation:Consultor en BDO Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHxWAXADhYKhw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=b3wpk8XrW2MPP-WX9jAYiSnpZHvKnS_KHn5JrIzhY-8
+            
+            name:Marisol Junes
+
+            ocupation:Especialista BI
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGinwgM0y0upA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=pM8nvzZIdJDu-bldPZReyrMnAt_IYTsEA1ddlpOrUd4
+            
+            name:Junior Ignacio Osorio Guadalupe
+
+            ocupation:Application Engineer
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHRtS8hDC5C2w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=zRAY0KHN-eILby1oIHSqWL1EzYoZPlJyk38gLavWfuw
+            
+            name:Dennis Edison Valente Arroyo
+
+            ocupation:Analista de redes en FIBERLUX PERU
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQE2cLeOqL2GBA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=6gJub1Ig3WGT3mwQKM6OYDv9fJATgjLZCGgjc57141A
+            
+            name:Luis Fernando Chupillon Robledo
+
+            ocupation:Representante Financiero - Tasador por Encargatura en Caja Municipal Maynas
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHZiyYoTMAkSg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=YbTB6kUKH8Aa1-9oFHkRusApeshBGp5luUgDkv-sxVI
+            
+            name:ricardo junior huayta diaz
+
+            ocupation:--
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:KATIUSKA GUEVARA
+
+            ocupation:Investigadora Junior en Asociacion de Exportadores ADEX
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEx2jcCJp6Urg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=KCGX9cDtyyHczBj9ySwTjkPKhN4uG47jOrAMfbqmcj8
+            
+            name:Rafael Mac-Gyver Gutiérrez Correa
+
+            ocupation:Administrativo de facturación en CyMed Medical Records
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQETl-rZvWR5UA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=yNGy0Q93TCs0JlMJhzUVxlumDjsrrvC5CXesbMNiMpA
+            
+            name:liz yessica taipe cabezas
+
+            ocupation:Estudiante en asociación de exportadores ADEX
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQF564sJ4iTROg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=P1ztIcwlE4-NQfC98W3vvNRnitbKXE0v_KuE5Pq69dA
+            
+            name:Marilyn Ortiz Sandi
+
+            ocupation:Asistente Técnico en MINSERG S.A.C
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGpETWvQn_row/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ILFHJMWIxA6cJxeZqtzCctvfHE2_4ZjffHcfEPY0l6U
+            
+            name:Denis Grandez
+
+            ocupation:Asesor comercial en El Poblado S.A
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHuzsmidEyDpQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=PLlRJ_gwh7MG77AstrGvYWh8YlB13g5cO1KgtlWqDNo
+            
+            name:Heidy Bacalla Tenorio
+
+            ocupation:Estudiante at Instituto Adex
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGfR2GHhURH0w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=vZNdN-45_bCrQy-9G3nNaF4gGsGx78VqqbyVU74brpE
+            
+            name:Alexandra E. Vasquez Mas
+
+            ocupation:Egresada de Administración de Negocios Internacionales
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEBzYzEvPCGJA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=HDcLUsL-n-bXtpYGqvL1Umljuo3ltKFG_Z7SYuAegUA
+            
+            name:Antonio Torralva López
+
+            ocupation:Fundador y transmisor de conocimientos y experiencias en Curso Hispano
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQHuRHB-KCz64w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=m8fD8OTuLv3G4kphWbmAGMh8FgyDnxBfbIHgqJQT4_A
+            
+            name:Curso Hispano
+
+            ocupation:Colaboradores en Curso Hispano
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQE-NslAwdFUUg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=21l9kZnYIgUF2W9jXK7pmM08CPV4cdPGupSgwN2iRAY
+            
+            name:Cristhian Naupa Garboza
+
+            ocupation:gerente en chalice sac
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Diana Quiroz Chipa
+
+            ocupation:Logistica en SODIMAC Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEPpB-MaLZ61A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=elvXRu5JZzvZqttfAK2tWd2sieovuysaWkmKHnPLIac
+            
+            name:Pamela Suazo Davila
+
+            ocupation:--
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:CLARISSA CACERES
+
+            ocupation:Estudiante en Asociacion de Exportadores (ADEX)
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHfhJ6_Ym5JoQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=UQ64WCLQTPWqcDOIK5UURh0mDNO3Kjax84ETPQwuzZo
+            
+            name:Juan Alex Mezares Roman
+
+            ocupation:Analista en redes y sistemas
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHKtxuCZ2B7oQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=smq6I6FPSLEN-Z2WLRdmSKGGSP4CdXdcH8ZjZ9H3t-c
+            
+            name:Augusto Alva
+
+            ocupation:Mobile Developer en Indra
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHetSNwTDEdSw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ZfJ6eNrQtUjjki90QsAydf9qq0uHU-IzooUPO3x6X7M
+            
+            name:Pamela Q. M.
+
+            ocupation:INGENIERO DE SEGURIDAD
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGAI7V98Zbx5g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=PWWJyuHiGy_OhiF6EBspfW_dzBoyJdGnveZcjZyEM_s
+            
+            name:Gian Nuñez
+
+            ocupation:--
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Juan Pool Rocca
+
+            ocupation:Ingeniero Operador de Centro de Control en Enel Perú
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF6iSitzCPkBQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=f-hcJNc-IW38RQMPGYr3EQHsdRWAf_XJ9OlETggvhJE
+            
+            name:David Torres Meniz
+
+            ocupation:Ingeniería de grúas pórtico en Dubai Ports World
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGRVGWkHYifKQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=EZUIbOrmTQHaasm8qQjAlZkoIbBPb4SToJ1qQ57Oyqs
+            
+            name:Marco Martinez Gutierrez
+
+            ocupation:Planning Maintenance en DP World
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGikUDOQxTYQA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=VofX8dxfAsaV3rb06UP4x2c_K_USMw0OlYx38XVl82o
+            
+            name:Roberth Requena
+
+            ocupation:Administrador de sistemas en Canvia
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEpvAU_eLb-Ew/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=uvtPMGK3tJDPN2d3-bkeiJ5iSVdNH1_8hs7zuOBpWx0
+            
+            name:Yessenia Ventocilla Vargas
+
+            ocupation:Analista de servicio al cliente y soporte en Interfono Cloud
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHpEwpn12_ljg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=ERaL8cm9PccMPuPk-lfm9qP2xhWo8_0jqWfzjPlj5yY
+            
+            name:Harold Suncion
+
+            ocupation:Especialista Unix
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHq8lADd1KRwA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=DQGJD-VhCT8lZ_ebT1fAv3tuo6_ZBiXmoY75thtQ0Ak
+            
+            name:Jean del carpio
+
+            ocupation:Gerente General XNET SOLUTIONS: ATC de EC Council, ATC CCISO, ATC PECB
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQH7lhedJGTqdA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=XtCWLgw82oWMiLE6qqpmW9sCzccUFlRYVIxH4FQvWgk
+            
+            name:Jose Gabriel Tafur
+
+            ocupation:Consultoría Especializada en Recursos Humanos
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFut1ab97UMwg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=458CPMqZ84DkM-rfLycQkqYe8YADOOB41QzmaGq44PU
+            
+            name:Pabel Adolfo Vila Galindo
+
+            ocupation:Consultoria de Hardware y Software.
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHe2vFNf45mWQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=V_IldkZNdxJyy6APkeys9K_LNjSecR3i7_qiY0LZq30
+            
+            name:Jhoanny Quispe Flores
+
+            ocupation:Administrador de sistemas, Cloud - Infraestructura
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEQXpv4d4BLZQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Ijmf33c3n9cyJA-2dNoZwCJpj01z1uH3TaGQrA2dYx0
+            
+            name:José Luis Quispe Pino
+
+            ocupation:Automatizador QA
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHJAcxnavl9eA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=zUqKL1sy80xJlQ9rOSQJtFu1GOELJItTNRBtIBv6eyU
+            
+            name:Ing° Adm. CIP Paul Villacorta, PMP, MBA
+
+            ocupation:PastPresidente en PMI LIMA PERU CHAPTER
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHR8xQxsbImjA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=oaSn1O_dtGN0TdOKZk4Zm9rfEC8mLS4Zg9odrK1OedM
+            
+            name:Josselin Gonzales baldeon
+
+            ocupation:Estudiante en Universidad cesar vallejo
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Gian Ramos
+
+            ocupation:Asesor tecnologico - comercial en NEOWISSE SOLUTIONS
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFRIkFyDs4E3g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=7nHwCcNbSzONfj-yss6cNQPH2X5yphntdCae9EbSLVw
+            
+            name:David Ruiz Gonzales
+
+            ocupation:Analista de Procesos en GRUPO NOVA - NOVA VISION SAC
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQFZzl6sXO-xnA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=8v1VHeBXQfr7GVa_QqvqhMGmCGTXgSqYU4tEtnGqFpA
+            
+            name:José Alejandro Mayo Corimanya
+
+            ocupation:Responsable de IT en CGM&A PERU
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHZLXvNpg5KDw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Sd7iG5JNSPyb6mf94E2vIu2g9EB5SJLfGU-VaXK60wg
+            
+            name:Luis Alfredo Costa Ordoñez
+
+            ocupation:Docente en Cibertec y Adex
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGy5aCCXjU39A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=33gusHQvqHKwJsbPhTG_zgPNGoNzG9ZDjVk_M946Cxc
+            
+            name:Diego Paredes Misari
+
+            ocupation:Técnico en Claro Telecomunicaciones
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Mario Eduardo Villano Lopez
+
+            ocupation:Técnico en Opp Film Peru
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQFBqb7EjDNn0g/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=UGuWqetAJR0rtsymKwkeOFsIxZCkzw5Rn2Qh_9H0Y1M
+            
+            name:José Elías Osorio Gonzáles
+
+            ocupation:Técnico analista de red y seguridad informática
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQE2ptKSbb3D1A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=sJ0h9l9rzPU56I0oI3_fzNHmFGh9b4YCA9UX8iyQ4bI
+            
+            name:Omar Alonso Beraun Reyes
+
+            ocupation:Electrónico de Grúas en DP World
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQF-544HGp9fNw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=9RKK-2r7rL6RRb4MPg1GZ9u5E1bCnRFrlxu_FcXp7_E
+            
+            name:Pedro Castañeda
+
+            ocupation:Tecnico en Electrónica y Automatización Industrial
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:David Flores Zafra
+
+            ocupation:Project Manager en IBM
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQHO7gujm-hx5w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=-ZM-OiXwZVntEik6pyHNlWjfbL_GQClUovTzsYhGSfc
+            
+            name:Clinton Figueroa Pacheco
+
+            ocupation:KAM Distributor Channel
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE8jkXLvYkejA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=0wynDCgYzXy_-3YyoFvi-gvxmLt5Er5c_9X_d0OUm8Y
+            
+            name:Renzo Santillán Chavez
+
+            ocupation:Líder técnico en Indra
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGems84CSXHNA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CB5DJN2SOxNscwqlcu4K2vyccqXHpCeFcyrOuBpC9qM
+            
+            name:Michael Alexander Garrido Saucedo
+
+            ocupation:Network Admin en Magellan Logistics Peru
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Diego Gonzales Gutierrez
+
+            ocupation:Responsable de TI en Fondo Nacional de Capacitación Laboral y Promoción del Empleo
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGBzO9RAYJdHw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1BgJxo6C9w-JU74mvj_RS9WvqU3HxiZWwnC3docOjSU
+            
+            name:Jean Pierre Guerrero
+
+            ocupation:Analista de infraestructura y Soporte en Lima Golf Clud
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQE6APyW5yLk2w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1cMF2NG67ADcyoGBkWuRyJOY8xdQ1USDH7KFQNh3ZQ8
+            
+            name:Augusto Daniel Barquero Hervias
+
+            ocupation:Desarrollador Android en everis
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHCZfJuUH4Spg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=MvaJ0CM4bgsT2pF12rPTNLPu9104jCqz1N1CZ9oUHys
+            
+            name:Michelle Navas
+
+            ocupation:consultora de empleabilidad en CapLab
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGjdV7TbTCpDQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=XJahfeC3YXi3zHPs8a3vQjra-YsOMXA8slhQCFQHmag
+            
+            name:John Jairo Rimarachin Sanchez
+
+            ocupation:Estudiante en TECSUP
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGD_NeJW-Axkg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=wTBx6yrPFvpkH3xnfV-GkWGRtauwMODATgf_gbUySk8
+            
+            name:Silcom Services
+
+            ocupation:Silcom Voip Security Assessment
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQGZ8nntMuRquA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=dPgrmWIgxZbemzNGBr_DyB7KBRMS5hF4uMrmkxvmJZE
+            
+            name:Celso Alexander Diaz Marquez
+
+            ocupation:Sales Specialist de Device Management Service en Sonda del Perú S.A
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQE_kPQOGXzwdw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Ta__cT88uZyRPMjkE78z_q1lD7-gQXdWJeVMk5HP_-Y
+            
+            name:Edu Álvarez Ibarra
+
+            ocupation:Android Mobile Developer en Globant
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQGAxPt3V0YL3Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=actjiqvS8Zg6rD8_4TVugVkwJMWv_5ByeTZmDS-Sal8
+            
+            name:Yerson Torres Santos
+
+            ocupation:Estudiante en TECSUP
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Sandy Valdivia Huaman
+
+            ocupation:Web Application Developer
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQG-JK-HKGlkgQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=CTmNWgah2IOIrjxaUQ11bUri5I0jK3U3amI-aXq5abQ
+            
+            name:Hugo Arnold Bobadilla Gutierrez
+
+            ocupation:Administrador de sistemas informáticos en Terres Magiques des Inca
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQGIJUiNR7D4ug/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=OZ40ye6e4E5QroJhgsBLiyYKUQgCWLoPBiZCpWe6-QA
+            
+            name:Gary Tuesta
+
+            ocupation:Asesor en Banca
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQF5Q9pinBnuDg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=HEOivA5WKu2J8gWeSQofpupQy5JBk2vG459XRgel4w4
+            
+            name:Roger Nolasco
+
+            ocupation:Sistemas at OSITRAN
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQH3TIivWh7RZg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=9FCL8tuLIJyeWjvWGtpn4GwKVRByIbp7ubySxSKnXEk
+            
+            name:Carlos A Velez Castillo
+
+            ocupation:--
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            
+            name:Roberto Carlos Valdivieso Lopez
+
+            ocupation:Profesional de Servicios y tecnología de la información
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQFbluudiCwI3w/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Haw5ZOYENKoHwz6mz22UE8cIMWcuE9-oZQkJkcGsJlg
+            
+            name:Jesus M. Garcia S.
+
+            ocupation:ING. EN HORTICULTURA
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEl-XUwvPV5tw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=SiddVUNmfW0CKRJmK4sxPuo83Dagc3igU0DTa8LS_4Y
+            
+            name:Mayra Pinedo López
+
+            ocupation:Asesora de gestión en Ministerio de Educación del Perú - Minedu
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQEIvIRrxCZVzw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=GR6OpUqN7POd70osVMbG6VANsjRDc3dSfytzGPqJM3A
+            
+            name:Juan Carlos Jave Chávez
+
+            ocupation:Soporte técnico en Dirección Regional Agraria de Ayacucho
+
+            image:https://media-exp1.licdn.com/dms/image/C5103AQFneWn1cSKvaQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=Z8OC2LdjsR9Msnm0gPACwaCSEPuvBBUz2k56X26_NJg
+            
+            name:Richard Eduardo Cornejo Roman
+
+            ocupation:Especialista OnPremise Senior
+
+            image:https://media-exp1.licdn.com/dms/image/C4D03AQHWAaU3yeld9A/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=9Pz9Hj5-zyfgSAKpqElHxfYFepk0B17EvuAali_-VZs
+            
+            name:Jesus Limachi Ortiz
+
+            ocupation:SERVICIO TECNICO CPU Y LAPTOPS
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFYIUePgyBUOA/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=1paKFFZejatYVjC8KzQqrD8uqoX0_6HMmZmBeVAz1No
+            
+            name:Claudia Figueroa
+
+            ocupation:Ejecutiva de Cuentas en Ogilvy
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH18mEJl75SYg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=53TGlFOeYh_Ci5A18NUo4NJRahShhXiAoGf84SDKGRc
+            
+            name:Carlos Jhonatan Idrogo Tapia
+
+            ocupation:Administrador de redes de TI en Serpar
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQFAe13XwCBw6Q/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=E0CfwI-dP8FUdc0VKGGzBzldoDLc1XJygZBCY7fB_y8
+            
+            name:Fred Kenny Goytendía Soto
+
+            ocupation:Jefe Telefonía IP y Cloud Server - Fiberlux
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQE_c6cAxLV3Ow/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=XAKejKZ6leXTsc0TZl_cetZtSeTojxarQh-wLaUTt6c
+            
+            name:Julio Rocca
+
+            ocupation:Lidero Proyectos de Marketing, Experiencia al Cliente y Comercial.
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQHdZC83KZGAUg/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=VKMJQDVWg0f1yvmMZrMA8jb70TH1eYGcv8ceQuz2SAc
+            
+            name:Jose Rodriguez Lipa
+
+            ocupation:managenment
+
+            image:https://media-exp1.licdn.com/dms/image/C4E03AQH0_9ONwzgXzw/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=lYKWir7l3anD5qi0lAQOSaB7ShqfrOHa2z5QP2B2kTU
+            
+            name:Ana Martínez Rodríguez
+
+            ocupation:Arquitecta, especialista en Restauración
+
+            image:https://media-exp1.licdn.com/dms/image/C5603AQEsyC2Oua7RPQ/profile-displayphoto-shrink_100_100/0?e=1588809600&v=beta&t=o3M6TzUihxBlFkxXMhKCty1hHCrVZj9igW1y6Sjr82o
+            
+            name:Robin Santana
+
+            ocupation:--
+
+            image:data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+            

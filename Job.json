@@ -1,0 +1,686 @@
+[
+  {
+    "position": "Data Science Analyst",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEk9ofjIPafsA/company-logo_100_100/0?e=1591228800&v=beta&t=fIAiKD9YLmXxTvn0GINsujMl6IULJku8QBRBNP81lh4",
+    "business": "Cheil Peru",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de Flota Vehicular - Planner",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEa3aAzMoi0LA/company-logo_100_100/0?e=1591228800&v=beta&t=DytlSyxfeh27FQIdV7evDhol7JolUjWYwrPyrITRHqA",
+    "business": "Prosegur",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "System Administrator",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGWif1Ob2P6Ew/company-logo_100_100/0?e=1591228800&v=beta&t=PFIQoPB2lA1eIfjTeuBWSgyrlQXOygqCUSVRdfr6NVs",
+    "business": "TRANZACT",
+    "location": "Ubicación del empleo\nSurco, PE"
+  },
+  {
+    "position": "Jefe de Administración de Personal",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG3ArTlepnb6g/company-logo_100_100/0?e=1591228800&v=beta&t=Y-3vZfDAQ5CXOVAxxBj6dpJZ45lfw3O-VKVUTq7U2qk",
+    "business": "Hudbay Peru S.A.C.",
+    "location": "Ubicación del empleo\nMiraflores, Lima, Perú"
+  },
+  {
+    "position": "Especialista de Inmuebles y/o Real State",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEa3aAzMoi0LA/company-logo_100_100/0?e=1591228800&v=beta&t=DytlSyxfeh27FQIdV7evDhol7JolUjWYwrPyrITRHqA",
+    "business": "Prosegur",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Cloud Database Administrator",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Colaborador de operación manual",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEOGzb-4f-zjA/company-logo_100_100/0?e=1591228800&v=beta&t=2gX8H2PZD7lVgr96tHJlLykPV1iN1c7hzrsAF5bSlkk",
+    "business": "Nestlé",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Jefe de Monitoreo - GPS",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGjQSwF6uPsJA/company-logo_100_100/0?e=1591228800&v=beta&t=hXv4DTmWd_ByFi0aKzWlIvW9MEfYtTsVa4op0hxuwXQ",
+    "business": "Experis Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de Procesos y Tecnología",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQExu7LQFq6GiA/company-logo_100_100/0?e=1591228800&v=beta&t=zxZ73tfLkgQfL50mFk-4GzPi6ISwD_bWca_cM5Ot-Gs",
+    "business": "Credicorp Capital",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Coordinador de Proyectos TI/Operaciones",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEAAk84UMLuug/company-logo_100_100/0?e=1591228800&v=beta&t=MKRg74WGlhrwFP1zzpl8UA8Z_jlgYNa4sMsVU_JvMcM",
+    "business": "Fandango",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Backend Engineer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQELHPNpVJ6MsA/company-logo_100_100/0?e=1591228800&v=beta&t=OxNywYR-Yr6EJmhx-F40YWS8FIAgF0VuDY2IdXhBAZI",
+    "business": "Cornershop",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "RPA DEVELOPER",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEp_ew5Dj0G_w/company-logo_100_100/0?e=1591228800&v=beta&t=Hf0HvTuXiqzRS75FOvSGsxpHLKLcAqj2LgfbUsdRDnE",
+    "business": "Anida Latam",
+    "location": "Ubicación del empleo\nMiraflores, Lima, Perú"
+  },
+  {
+    "position": "Trade Officer",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Agency for Business Development",
+    "location": "Ubicación del empleo\nLima, Lima"
+  },
+  {
+    "position": "Analista Funcional",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH4iArVXkAYng/company-logo_100_100/0?e=1591228800&v=beta&t=FTWQMum0T7nbUNc0rNYd8pVCwlk3Sd-xZQ-EJ3XTGLs",
+    "business": "EVOL (TSnet S.A.)",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Teleport Engineer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQFbOOZIM2Ih6A/company-logo_100_100/0?e=1591228800&v=beta&t=rVuH6K7qAk2GOjkcvOCRHmslNiYLEEsOlIRnDAbpYOU",
+    "business": "Speedcast",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "Full Stack Developer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHBRzYWHFsIfQ/company-logo_100_100/0?e=1591228800&v=beta&t=37rhfKae2ur_-Sfx0HuFgSS5i7mJ9R6nQfzqOwAXvaA",
+    "business": "inConcert",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Ingeniero Gestor de Proyectos de Energía",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEakqxCzo4JfQ/company-logo_100_100/0?e=1591228800&v=beta&t=3WIdQvnzs88a2cgFflpOaMV7Ua_qsfUFJoGfBp-DTDc",
+    "business": "Statkraft",
+    "location": "Ubicación del empleo\nSan Isidro, Lima, Perú"
+  },
+  {
+    "position": "Programador Web - PHP",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZ0FL2xDleQw/company-logo_100_100/0?e=1591228800&v=beta&t=FYf2N3YachTXtaaE-IGLH8I85iUJWYv8STmQ7EQsOsQ",
+    "business": "Kallpa IT",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Head of Data Science and AI",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEjqLgGNnvTww/company-logo_100_100/0?e=1591228800&v=beta&t=5uUGEC5j35X4FMMJrIBVCkGjYotj4tWS-1e5B4XkBG0",
+    "business": "Haystack TV",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "Interprete Telefónico",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Empresa de Interpretación",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de Producto Captaciones",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nLima Metropolitan Area"
+  },
+  {
+    "position": "Senior Account Manager IT - Perú",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGlBh451UdXAg/company-logo_100_100/0?e=1591228800&v=beta&t=n4hToMfBkMxCky2wQy3Rfy1pAOlzT5juvUy3xk_wEJQ",
+    "business": "Aranda SOFTWARE",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Consultor SAP Basis (Certificación HANA)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHX2zsMj7NLNQ/company-logo_100_100/0?e=1591228800&v=beta&t=FqT6u8BhL4b-VWmKrQGcVgWfKZzF9f-0lyE-VYwDhAs",
+    "business": "Indra",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Software Engineer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHDjJMzWUhMfg/company-logo_100_100/0?e=1591228800&v=beta&t=VONngUm_l0Wkb8gjCdpfgN7Mrs4DAS47p3RYb5FLKzU",
+    "business": "Huawei",
+    "location": "Ubicación del empleo\nSan Isidro, Lima, Peru"
+  },
+  {
+    "position": "Coordinador de Almacen",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQG0OGeHUVhttA/company-logo_100_100/0?e=1591228800&v=beta&t=ujHaEgAiFJN-I4sT50GeVdLa5vXF7WpVjj1U_tFAA58",
+    "business": "Falabella Perú",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "Director de Tecnología e Innovación Regional",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQElRWTDRdhu_Q/company-logo_100_100/0?e=1591228800&v=beta&t=RjJeVLxHdvlNDwVi8n2BIxmNm9O3KKPz2VLXCDBplZ4",
+    "business": "LLYC",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Líder Técnico Backend",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEG6ITGYnm2ng/company-logo_100_100/0?e=1591228800&v=beta&t=D77fKU44SdmqkzcVs5F7DAvkGA7lj4HePe1soNViB14",
+    "business": "Pacífico Seguros",
+    "location": "Ubicación del empleo\nLima Province, Peru"
+  },
+  {
+    "position": "Contractor Sr Solution Consultant / Pre-Sales Engineer, Peru",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFVbggmW5x6SQ/company-logo_100_100/0?e=1591228800&v=beta&t=n6hq5V3OIphze7XkAAtaGdeFjYfCeTNw25m44Op-CiA",
+    "business": "Genesys",
+    "location": "Ubicación del empleo\nSan Isidro, PE"
+  },
+  {
+    "position": "YOUNG DATA PROFESSIONAL",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHAnbWVh-DZbQ/company-logo_100_100/0?e=1591228800&v=beta&t=3h9FYuua7MdULYC-wB5XlrztNPtt_HfOD14skDV2z6c",
+    "business": "BBVA",
+    "location": "Ubicación del empleo\nPerú"
+  },
+  {
+    "position": "AMD Technical Specialist",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHd-7A51P9BPw/company-logo_100_100/0?e=1591228800&v=beta&t=YOwDx_5BDqctxtwOpsqbZfeqzj_YyEIZz6HhQJMIMm0",
+    "business": "Lenovo",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Ingeniero Preventa TI",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGbVu9HuEpogg/company-logo_100_100/0?e=1591228800&v=beta&t=OZ3siYG_T6cwj5GxhjmtbM-5NRqEE23jkEi8Yuvrm4s",
+    "business": "Gtd Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Desarrollador/a Backend Senior – IR Digital",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG0sJX3XgktCg/company-logo_100_100/0?e=1591228800&v=beta&t=jYqlSmvN0pBWdM2YlobYXRjqaO95hjKQ2UUTcQyO1a8",
+    "business": "Intercorp Retail",
+    "location": "Ubicación del empleo\nSan Borja, Lima, Perú"
+  },
+  {
+    "position": "Analista Junior de Aplicaciones de TI",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQE71pBrpsJqPg/company-logo_100_100/0?e=1591228800&v=beta&t=a8HfHBrF4zGc2I_23yRFQDOZfGT5IRA9f0cC_pxsY1U",
+    "business": "ADP Aeropuertos del Perú S.A.",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Territory Manager",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHxH-SOfYorjg/company-logo_100_100/0?e=1591228800&v=beta&t=JOtWIiHzu7oTYYPR21pDVglwaDXDfbngt8QyrUZ0iis",
+    "business": "Veeam Software",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "System Administrator - $30,000/year USD - JobID #825",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQE_m_twEzTeDA/company-logo_100_100/0?e=1591228800&v=beta&t=OcPGU6hmGEUEaCqwKa8ENoatDF-qWKqh5qG9uvqBuQ0",
+    "business": "Crossover for Work",
+    "location": "Ubicación del empleo\nSan Miguel, PE"
+  },
+  {
+    "position": "Senior SAP Finance Consultant",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGcC5nkmHu2cg/company-logo_100_100/0?e=1591228800&v=beta&t=urrhP_nJOAZrNEBwifibPlc5Zl4_WPDQmdRxSzylTK0",
+    "business": "Infosys",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "PRODUCT OWNER",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHlN-pC95oFsA/company-logo_100_100/0?e=1591228800&v=beta&t=ySkAKotT7sBWwkvIfYdl-JEMfIoZoIHMfey0emtvZpM",
+    "business": "BBVA en Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "GO WITH MAERSK - IT/SISTEMAS",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQERJjESea-H7w/company-logo_100_100/0?e=1591228800&v=beta&t=CMDSwra_ckLNwONFlsq3kpyA4mnfk08DDcmcDMLI8gA",
+    "business": "APM Terminals",
+    "location": "Ubicación del empleo\nCallao, PE"
+  },
+  {
+    "position": "Education and Society Project Operations Officer - Peru",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEbgQMpvEqVNw/company-logo_100_100/0?e=1591228800&v=beta&t=dKkS-M1o9QbX5TX-sFtXV3SiWjoNryU-BeB2C9ynus4",
+    "business": "British Council",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "Professional and Educational Services Consultant",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGVNrwhNKYk3g/company-logo_100_100/0?e=1591228800&v=beta&t=luZ4aGBlbFkqyCxhE4w2DEwLWLPqFj_M7niPgCemQP8",
+    "business": "Turnitin",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Gerente Corporativo de Seguridad y Salud en el Trabajo",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEIuG0XJzoG-Q/company-logo_100_100/0?e=1591228800&v=beta&t=iIj58NdCsQrvL-UC8pjybcs_5Yt57hOvTlQMAkGRzeM",
+    "business": "Vitapro S.A.",
+    "location": "Ubicación del empleo\nTrujillo, Departamento de La Libertad, Perú"
+  },
+  {
+    "position": "Field Technical Support Representative",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs5HVdyuXuww/company-logo_100_100/0?e=1591228800&v=beta&t=ydn0cSDIo4sHmUx_16kaYkkFwZuiLqr7RuFgPh3YUkc",
+    "business": "DXC Technology",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Asistente de Plataforma ITSM (Helpdesk)",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Confidencial",
+    "location": "Ubicación del empleo\nSan Isidro, Lima, Perú"
+  },
+  {
+    "position": "Artificial Intelligence Engineer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHYhhzBz6sv8A/company-logo_100_100/0?e=1591228800&v=beta&t=m5B6joNWlyfx2WpwEC_Li5ICo7bfr4RXWy8wZo6eVsI",
+    "business": "IPsoft",
+    "location": "Ubicación del empleo\nLima Province, Peru"
+  },
+  {
+    "position": "SAP HCM",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHeiHzIxnbyOQ/company-logo_100_100/0?e=1591228800&v=beta&t=OKa_T2FiHvEZUdVlVlCt1db8VMMAvnlXFbFExCdfS8g",
+    "business": "HCL Technologies",
+    "location": "Ubicación del empleo\nPerú"
+  },
+  {
+    "position": "Tech Analyst RTD",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Cloud Sales Professional - Peru",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Support Operations Specialist (US)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEydxOE4qCWCQ/company-logo_100_100/0?e=1591228800&v=beta&t=13Fwmjr28G4S6KZuNWC6-tlUEqPTr9GzZ5wCTuWq2s0",
+    "business": "GitLab Inc.",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Data Scientist",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEA1n-8pcEshg/company-logo_100_100/0?e=1591228800&v=beta&t=domfNwKYSVI6QUoP1WOFZKxcXgYq-60VSXiFy7wVpjc",
+    "business": "Hunt Oil Company",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Analista de Seguridad de la Información",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGZWuVpAF2CpA/company-logo_100_100/0?e=1591228800&v=beta&t=eqgtphiXK4gZQYQoIubZ03j9OA0gPTGiroYM9-aalAg",
+    "business": "La Positiva Seguros",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Colaborador de operación técnica - Temporal",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEOGzb-4f-zjA/company-logo_100_100/0?e=1591228800&v=beta&t=2gX8H2PZD7lVgr96tHJlLykPV1iN1c7hzrsAF5bSlkk",
+    "business": "Nestlé",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Software Engineer (Cognitive)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHYhhzBz6sv8A/company-logo_100_100/0?e=1591228800&v=beta&t=m5B6joNWlyfx2WpwEC_Li5ICo7bfr4RXWy8wZo6eVsI",
+    "business": "IPsoft",
+    "location": "Ubicación del empleo\nLima Province, Peru"
+  },
+  {
+    "position": "Especialista de Servicios Cloud",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH520Iye0ZXPw/company-logo_100_100/0?e=1591228800&v=beta&t=3ZO5JHD7aMOrBWPieyO03xQ5Aw2EZKvqWNmggF8nvW8",
+    "business": "Claro Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Arquitecto Cloud (Infraestructura)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEuQ6qjqtCW8w/company-logo_100_100/0?e=1591228800&v=beta&t=Mb1FRfxChjWSZ1MRCc7wimLqZS3jrRGdNepprpXOzT8",
+    "business": "Canvia",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Ingeniero de soporte",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQFfUAv1IAvkKg/company-logo_100_100/0?e=1591228800&v=beta&t=-iC9ybBQ9MPs2vq2TEBZh9E8FfDfudymHzXqoEQTTyI",
+    "business": "Tata Consultancy Services",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Administrador de Servidores",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGmUqLCPH2TdQ/company-logo_100_100/0?e=1591228800&v=beta&t=mW-cx79vIzWFJLzza0AF1Z9qLyoMrVIn6tj2kWFih1g",
+    "business": "Atento",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Gerente Comercial - Seguridad de la Tecnología",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQEeK1BH5vKw8Q/company-logo_100_100/0?e=1591228800&v=beta&t=QYZevU_dX8_hf_UWZ58HkU_O1bGWdvmx8wvx5cuMiqM",
+    "business": "Adecco",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Ingeniero/a Inspector/a de Seguridad",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQFwi9FlPHWScw/company-logo_100_100/0?e=1591228800&v=beta&t=qvq1NaPwrEnBsTnBhx603GcCE2HBGzoYBiI2IVCajQo",
+    "business": "Enel Perú",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Consultores Freelance",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFdae6ob8OAww/company-logo_100_100/0?e=1591228800&v=beta&t=eYmuCtCY-4KLuoovb2Sdzbyg4XonC5cD3Q75AXLCKsQ",
+    "business": "Mercer",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de seguridad de la información",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGzB6yV9PokTA/company-logo_100_100/0?e=1591228800&v=beta&t=pZ0EuNiyxww0I1klu9xKXFCOl65AdEenY9pboypTZt8",
+    "business": "Caja Cencosud Scotiabank",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Jefe UX",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQE6HiBvIFbopA/company-logo_100_100/0?e=1591228800&v=beta&t=Id_lIjQ1ejRHCkztSvCVmk8Tp6OQL-FztgnEe_jQLXA",
+    "business": "Banco Pichincha Perú",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "RSA Fraud & Risk Intelligence Account Executive 4 (South Cone)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQH4hpKEARj8rA/company-logo_100_100/0?e=1591228800&v=beta&t=vs-J4KoFzm51Uya4CcP4wcWyJYQS9t1NgVCgLYjaGUI",
+    "business": "Dell",
+    "location": "Ubicación del empleo\nHacienda Perú, PE"
+  },
+  {
+    "position": "Customer Success Manager",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQFYqR8IieWOFQ/company-logo_100_100/0?e=1591228800&v=beta&t=B-QXKzMain-ZRSyt4qjZS2OdALHjnstAZ821ag729lw",
+    "business": "Infobip",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "AGILE OPS / Junior - Semi senior - Senior",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFaBobvK0iQlA/company-logo_100_100/0?e=1591228800&v=beta&t=716q79naFK0jxLdku60sF05seN2GWphcZnyXn8qafJg",
+    "business": "Metrica Andina",
+    "location": "Ubicación del empleo\nChorrillos, Lima, Perú"
+  },
+  {
+    "position": "Safety Coordinator",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Confidential",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "ETL Developer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFV8hEDyrhygA/company-logo_100_100/0?e=1591228800&v=beta&t=WtbGOS9IrrsuE5Jh0BIQlxAlJF2zKPEeSonbUs841Zc",
+    "business": "BairesDev",
+    "location": "Ubicación del empleo\nPeru"
+  },
+  {
+    "position": "Account Manager MU CCAAS EC/PE",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQG0nzntznSIQg/company-logo_100_100/0?e=1591228800&v=beta&t=c1EUwM0_f1fnBdYYdi8369ub1_lJhO3wWbpZAsvEWWU",
+    "business": "Nokia",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Analista de Informática Interna",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGCygFcOb0APw/company-logo_100_100/0?e=1591228800&v=beta&t=K1-DeblG8af4haGUUxHbq6MVBOH6CsZ-NafEWry48fs",
+    "business": "SONDA",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "SCADA ENGINEER",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGOMpWOpMDR0g/company-logo_100_100/0?e=1591228800&v=beta&t=QkQk3nvkYksEBLx5gVShzPqUGYq43P-BjI2zoa-QGKU",
+    "business": "Hitachi Rail STS",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Tottus Perú- Analista de Datos- Auditoría Interna",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFzyyhDD14CWw/company-logo_100_100/0?e=1591228800&v=beta&t=5nwoGnj18OyexU3i0cC3UhiC36jlwdeX8oQSVk6PtNo",
+    "business": "Tottus",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Senior Liferay Developer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFjO-V14FMzjg/company-logo_100_100/0?e=1591228800&v=beta&t=GUlMSu1zsluMaKSy20ipm-3QWbK2fJFQ5lNIwRM_ez8",
+    "business": "everis Perú",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "CONSULTOR DE NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHLBwnUqpC2tA/company-logo_100_100/0?e=1591228800&v=beta&t=ZceiaRox8RKejI5DkZ8Oci3LTyqPzKkjS6-gm1Zm9fE",
+    "business": "Management Solutions",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "SUB GERENTE GESTIÓN DE INFORMACIÓN",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGKeijRPxuNXg/company-logo_100_100/0?e=1591228800&v=beta&t=_Yl5Tavjq_riST9cK9D0uIX3LOPVJite7qeEZ6mcbQ4",
+    "business": "Banco de Crédito BCP",
+    "location": "Ubicación del empleo\nLa Molina, Lima, Perú"
+  },
+  {
+    "position": "Analista de Sistemas Senior - Procesos de desarrollo de software",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEuQ6qjqtCW8w/company-logo_100_100/0?e=1591228800&v=beta&t=Mb1FRfxChjWSZ1MRCc7wimLqZS3jrRGdNepprpXOzT8",
+    "business": "Canvia",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Fullstack Developer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGcC5nkmHu2cg/company-logo_100_100/0?e=1591228800&v=beta&t=urrhP_nJOAZrNEBwifibPlc5Zl4_WPDQmdRxSzylTK0",
+    "business": "Infosys",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "DATA SCIENTIST",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHlN-pC95oFsA/company-logo_100_100/0?e=1591228800&v=beta&t=ySkAKotT7sBWwkvIfYdl-JEMfIoZoIHMfey0emtvZpM",
+    "business": "BBVA en Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Jefe de Gestión de la Información y Data Maestra",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGOlG4CvCxiag/company-logo_100_100/0?e=1591228800&v=beta&t=biE27JROjeZYDAvT9xY0UtaGgBPTss19JLFqwQ9JIEQ",
+    "business": "Alicorp",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Automatizador QA - Senior",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFjO-V14FMzjg/company-logo_100_100/0?e=1591228800&v=beta&t=GUlMSu1zsluMaKSy20ipm-3QWbK2fJFQ5lNIwRM_ez8",
+    "business": "everis Perú",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Supervisor de Proyectos Sociales",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG3ArTlepnb6g/company-logo_100_100/0?e=1591228800&v=beta&t=Y-3vZfDAQ5CXOVAxxBj6dpJZ45lfw3O-VKVUTq7U2qk",
+    "business": "Hudbay Peru S.A.C.",
+    "location": "Ubicación del empleo\nCusco, Cuzco, Perú"
+  },
+  {
+    "position": "Supevisor Senior SSOMA",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGjQSwF6uPsJA/company-logo_100_100/0?e=1591228800&v=beta&t=hXv4DTmWd_ByFi0aKzWlIvW9MEfYtTsVa4op0hxuwXQ",
+    "business": "Experis Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Especialista DevOps Senior",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQG0sJX3XgktCg/company-logo_100_100/0?e=1591228800&v=beta&t=jYqlSmvN0pBWdM2YlobYXRjqaO95hjKQ2UUTcQyO1a8",
+    "business": "Intercorp Retail",
+    "location": "Ubicación del empleo\nSan Borja, Lima, Perú"
+  },
+  {
+    "position": "Gerente de Tribu de Datos",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQH7NfMByRtDXQ/company-logo_100_100/0?e=1591228800&v=beta&t=PlMMeEKX8sUhX5Pyv59sluYsZ3vylbsakUz9VQCmsTM",
+    "business": "Mibanco",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de Transformación de Procesos",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Especialista Unix",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Scada System & Telecommunications Inspector",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEA1n-8pcEshg/company-logo_100_100/0?e=1591228800&v=beta&t=domfNwKYSVI6QUoP1WOFZKxcXgYq-60VSXiFy7wVpjc",
+    "business": "Hunt Oil Company",
+    "location": "Ubicación del empleo\nAyacucho, PE"
+  },
+  {
+    "position": "Cloud Business Developement Manager",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHDjJMzWUhMfg/company-logo_100_100/0?e=1591228800&v=beta&t=VONngUm_l0Wkb8gjCdpfgN7Mrs4DAS47p3RYb5FLKzU",
+    "business": "Huawei",
+    "location": "Ubicación del empleo\nLima, Peru"
+  },
+  {
+    "position": "System Engineer - $30,000/year USD - JobID #3073",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQE_m_twEzTeDA/company-logo_100_100/0?e=1591228800&v=beta&t=OcPGU6hmGEUEaCqwKa8ENoatDF-qWKqh5qG9uvqBuQ0",
+    "business": "Crossover for Work",
+    "location": "Ubicación del empleo\nSan Miguel, PE"
+  },
+  {
+    "position": "Arquitecto de Soluciones (Cloud)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEuQ6qjqtCW8w/company-logo_100_100/0?e=1591228800&v=beta&t=Mb1FRfxChjWSZ1MRCc7wimLqZS3jrRGdNepprpXOzT8",
+    "business": "Canvia",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Supervisor/a de Auditoria de Sistemas",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEzhn1BoV3gHA/company-logo_100_100/0?e=1591228800&v=beta&t=8uqkkKczUT-6Lt6Tm9ysHwXKOFHhpildjz4bDoAJ4_Q",
+    "business": "KPMG en Perú",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Analista Senior de Aplicaciones (Canales Digitales)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGZWuVpAF2CpA/company-logo_100_100/0?e=1591228800&v=beta&t=eqgtphiXK4gZQYQoIubZ03j9OA0gPTGiroYM9-aalAg",
+    "business": "La Positiva Seguros",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Analista de procesos",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGZWuVpAF2CpA/company-logo_100_100/0?e=1591228800&v=beta&t=eqgtphiXK4gZQYQoIubZ03j9OA0gPTGiroYM9-aalAg",
+    "business": "La Positiva Seguros",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Analista de TI",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Confidencial",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Technical Support Manager",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHJlVV1oJjTxw/company-logo_100_100/0?e=1591228800&v=beta&t=Oh4_ek3uh1t_7DEVKXl7bstPX6cfAUVTVlOJ09aLlGk",
+    "business": "Sandvik",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Arquitecto de soluciones",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEYb1DH6wxN0g/company-logo_100_100/0?e=1591228800&v=beta&t=eRNoFy4UkIpYnSrEidOIogY1JDB3ytu3mtQyHHH1KWk",
+    "business": "Rimac Seguros y Reaseguros",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista Senior de Inteligencia y Analítica Avanzada",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQH7NfMByRtDXQ/company-logo_100_100/0?e=1591228800&v=beta&t=PlMMeEKX8sUhX5Pyv59sluYsZ3vylbsakUz9VQCmsTM",
+    "business": "Mibanco",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista de Planeamiento y Desarrollo Comercial",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGKeijRPxuNXg/company-logo_100_100/0?e=1591228800&v=beta&t=_Yl5Tavjq_riST9cK9D0uIX3LOPVJite7qeEZ6mcbQ4",
+    "business": "Banco de Crédito BCP",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Supervisor de seguridad de la información",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "Telecomunicaciones",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Coordinador de Gestión de Servicios",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQH520Iye0ZXPw/company-logo_100_100/0?e=1591228800&v=beta&t=3ZO5JHD7aMOrBWPieyO03xQ5Aw2EZKvqWNmggF8nvW8",
+    "business": "Claro Perú",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista Senior de Modelos y Analytics (Riesgos crediticios)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGOlG4CvCxiag/company-logo_100_100/0?e=1591228800&v=beta&t=biE27JROjeZYDAvT9xY0UtaGgBPTss19JLFqwQ9JIEQ",
+    "business": "Alicorp",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Especialista en Middleware - WME",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Analista II Servicios para los Clientes – Automatizaciones",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGKeijRPxuNXg/company-logo_100_100/0?e=1591228800&v=beta&t=_Yl5Tavjq_riST9cK9D0uIX3LOPVJite7qeEZ6mcbQ4",
+    "business": "Banco de Crédito BCP",
+    "location": "Ubicación del empleo\nLima, Perú"
+  },
+  {
+    "position": "Analista Jr. de Proyectos de Sistemas",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "URGENTE PROFESIONALES- PROYECTO MINERO",
+    "logo": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "business": "SACYR PERÚ",
+    "location": "Ubicación del empleo\nMoquegua, Perú"
+  },
+  {
+    "position": "Support Engineer - $60,000/year USD - JobID #3330",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQE_m_twEzTeDA/company-logo_100_100/0?e=1591228800&v=beta&t=OcPGU6hmGEUEaCqwKa8ENoatDF-qWKqh5qG9uvqBuQ0",
+    "business": "Crossover for Work",
+    "location": "Ubicación del empleo\nSan Miguel, PE"
+  },
+  {
+    "position": "Analista de integración Empresarial (TI)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGZWuVpAF2CpA/company-logo_100_100/0?e=1591228800&v=beta&t=eqgtphiXK4gZQYQoIubZ03j9OA0gPTGiroYM9-aalAg",
+    "business": "La Positiva Seguros",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Database Administrator (Oracle, DB2, SQL)",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Deputy Compliance Officer",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nLima Metropolitan Area"
+  },
+  {
+    "position": "System Operations - Mainframe",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Growth Hacker",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFs1FkQjHXYyQ/company-logo_100_100/0?e=1591228800&v=beta&t=pYrrLpglg6CBg0A7ToKUyi8JLosTvQm68WqffkdKgPo",
+    "business": "Interbank",
+    "location": "Ubicación del empleo\nLima Province, Peru"
+  },
+  {
+    "position": "Data Scientist Senior",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGOlG4CvCxiag/company-logo_100_100/0?e=1591228800&v=beta&t=biE27JROjeZYDAvT9xY0UtaGgBPTss19JLFqwQ9JIEQ",
+    "business": "Alicorp",
+    "location": "Ubicación del empleo\nProvincia de Lima, Peru"
+  },
+  {
+    "position": "Coordinador de sistemas",
+    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQF5UKsrhE6QJw/company-logo_100_100/0?e=1591228800&v=beta&t=olliuqm4RmulGFcNbvkdrSrm33xjWAW8M5Boe7_NcWk",
+    "business": "TECSUP",
+    "location": "Ubicación del empleo\nSanta Anita, Lima, Perú"
+  },
+  {
+    "position": "Supervisor/a de Telecomunicaciones",
+    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQE6MiQrRWx2cQ/company-logo_100_100/0?e=1591228800&v=beta&t=maHTyrnVFh54ulzQGdcvwYEq2YXBIslZok2aNi3FOTA",
+    "business": "Antamina",
+    "location": "Ubicación del empleo\nHuari, Ancash, Perú"
+  },
+  {
+    "position": "Resiliency Service Line Representative",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  },
+  {
+    "position": "Security Consultant",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYz0LG6dS9ig/company-logo_100_100/0?e=1591228800&v=beta&t=VGE7gaG-coXa897BC4H-Sj0Dge2QnTYulkneJEUmMaI",
+    "business": "IBM",
+    "location": "Ubicación del empleo\nLima, PE"
+  }
+]
