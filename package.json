@@ -19,5 +19,8 @@
     "dotenv": "^8.2.0",
     "graphql": "^14.6.0",
     "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.5"
   }
 }
