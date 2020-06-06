@@ -14,7 +14,7 @@
     "@babel/polyfill": "^7.8.3",
     "@babel/preset-env": "^7.8.6",
     "@babel/register": "^7.8.6",
-    "apollo-server": "^2.11.0",
+    "apollo-server": "^2.14.2",
     "aws-sdk": "^2.632.0",
     "dotenv": "^8.2.0",
     "graphql": "^14.6.0",
